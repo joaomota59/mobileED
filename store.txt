@@ -1,0 +1,15 @@
+1 Facebook 100
+2 Whatsapp 150
+3 Youtube 300
+4 PES_2018 303
+5 Snapchat 401
+6 Google 409
+7 Tinder 450
+8 Uber 600
+9 Steam 650
+10 OLX 654
+11 GTA 700
+12 Nvidia 2580
+13 Movit 5009
+14 Netflix 5023
+15 Outlook 5500
